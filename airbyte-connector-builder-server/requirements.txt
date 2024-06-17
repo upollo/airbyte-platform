@@ -110,7 +110,7 @@ typing-extensions==4.11.0
     #   pydantic
 url-normalize==1.4.3
     # via requests-cache
-urllib3==2.2.1
+urllib3==2.2.2
     # via
     #   requests
     #   requests-cache
